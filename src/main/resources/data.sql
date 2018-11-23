@@ -1,0 +1,4 @@
+insert into employee (first_name, middle_initial, last_name, date_birth, date_employment, status) values ('1', '1', '1', '2012-12-12', '2014-12-12', 'ACTIVE');
+insert into employee (first_name, middle_initial, last_name, date_birth, date_employment, status) values ('2', '2', '2', '2012-12-12', '2014-12-12', 'ACTIVE');
+insert into employee (first_name, middle_initial, last_name, date_birth, date_employment, status) values ('3', '3', '3', '2012-12-12', '2014-12-12', 'ACTIVE');
+insert into employee (first_name, middle_initial, last_name, date_birth, date_employment, status) values ('4', '4', '4', '2012-12-12', '2014-12-12', 'ACTIVE');

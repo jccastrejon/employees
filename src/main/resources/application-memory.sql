@@ -1,3 +1,2 @@
-spring.profiles.active=@spring.profiles.active@
 security.basic.username=test
 security.basic.password=test
